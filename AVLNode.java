@@ -4,8 +4,6 @@ Semester: Summer 2016
 Assignment: AVLMap
 FileName: AVLNode.java
 Author: Piechota, Michael
-Student ID: 106765137
-Email Address: Michael.Piechota.474@my.csun.edu
  */
 
 import java.util.ArrayList;
