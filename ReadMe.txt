@@ -1,4 +1,4 @@
-This is a Java class called "AVLMap<K,V>" that has an API implementation exactly like that of java.util.TreeMap (Java SE8). 
+This is a Java class called "AVLMap<K,V>" that has an API implementation exactly like that of java.util.TreeMap which is implententd as a Red-Black Tree. (Java SE8) 
 
 API:
 Constructor: AVLMap<K,V>()
